@@ -11,5 +11,160 @@ Other: jQuery, JSON, Node.js, and HTML5
 
 Filelist
 ========
+bash/
+  Bash is the GNU Project's shell.  Bash is the Bourne Again SHell.
+  Bash is an sh-compatible shell that incorporates useful features
+  from the Korn shell (ksh) and C shell (csh). 
+  http://www.gnu.org/software/bash/
+
+c#/
+  C# (pronounced see sharp) is a multi-paradigm programming
+  language encompassing strong typing, imperative, declarative,
+  functional, generic, object-oriented (class-based), and
+  component-oriented programming disciplines.
+  http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29
+
+c/
+  C programming
+
+css/
+  Cascading Style Sheets (CSS) is a style sheet language used for
+  describing the look and formatting of a document written in a
+  markup language.  While most often used to change the style of
+  web pages and user interfaces written in HTML and XHTML, the
+  language can be applied to any kind of XML document, including
+  plain XML, SVG and XUL. 
+  http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+
+go/
+  Go is an expressive, concurrent, garbage-collected
+  programming language.
+  https://code.google.com/p/go/
+
+html/
+  HyperText Markup Language is the standard markup language
+  used to create Web pages.
+  http://en.wikipedia.org/wiki/HTML
+
+html5/
+  HTML5 is a core technology markup language of the Internet
+  used for structuring and presenting content for the World
+  Wide Web.  As of October 2014 this is the final and complete[2]
+  fifth revision of the HTML standard of the World Wide Web
+  Consortium (W3C).[3]  The previous version, HTML 4, was
+  standardised in 1997.
+  http://en.wikipedia.org/wiki/HTML5
+
+javascript/
+  JavaScript programming
+
+json/
+  JavaScript Object Notation
+  https://en.wikipedia.org/wiki/JSON
+
+jsp/
+  JavaServer Pages (JSP) is a technology that helps software developers create
+  dynamically generated web pages based on HTML, XML, or other document types.
+  Released in 1999 by Sun Microsystems,[1] JSP is similar to PHP, but it uses
+  the Java programming language.
+  http://en.wikipedia.org/wiki/JavaServer_Pages
+
+jstl/
+  The JavaServer Pages Standard Tag Library (JSTL) is a
+  component of the Java EE Web application development platform.
+  It extends the JSP specification by adding a tag library of
+  JSP tags for common tasks, such as XML data processing,
+  conditional execution, database access, loops and
+  internationalization.
+
+julia/
+  Julia is a new language for scientific computing that is
+  winning praise from a slew of very smart people, including
+  Harlan Harris, Chris Fonnesbeck, Douglas Bates, Vince Buffalo
+  and Shane Conway. As a language, it has lofty design goals,
+  which, if attained, will make it noticeably superior to
+  Matlab, R and Python for scientific programming.
+  http://www.r-bloggers.com/julia-i-love-you/
+  http://science.slashdot.org/story/12/04/18/1423231/julia-language-seeks-to-be-the-c-for-numerical-computing
+
 links.txt
   Language related links
+
+lua/
+  Lua is a powerful, fast, lightweight, embeddable scripting language.
+  http://www.lua.org/about.html
+
+perl/
+  Pathologically Eclectic Rubbish Lister - Larry Wall
+  http://en.wikipedia.org/wiki/Perl
+
+php/
+  PHP is a widely-used general-purpose scripting language that
+  is especially suited for Web development and can be embedded
+  into HTML.  While PHP originally stood for Personal Home Page,
+  it is now said to stand for PHP: Hypertext Preprocessor, a
+  recursive acronym.
+  http://www.php.net/ 
+  http://en.wikipedia.org/wiki/PHP
+
+php5/
+  PHP (recursive acronym for PHP: Hypertext Preprocessor) is a
+  widely-used open source general-purpose scripting language
+  that is especially suited for web development and can be
+  embedded into HTML.
+  https://packages.debian.org/wheezy/php5 
+  http://php.net/
+
+powershell/
+  Powershell
+  http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx
+
+python/
+  Python
+  https://www.python.org/
+
+ruby/
+  Ruby
+  https://www.ruby-lang.org/
+
+scheme/
+  Scheme is a functional programming language and one of the
+  two main dialects of the programming language Lisp.  Unlike
+  Common Lisp, the other main dialect,  Scheme follows a
+  minimalist design philosophy specifying a small standard core
+  with powerful tools for language extension.
+  http://en.wikipedia.org/wiki/Scheme_(programming_language)
+
+snmp/
+  Simple Network Management Protocol (SNMP)
+  http://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+
+sql/
+  SQL short for Structured Query Language) is a special-purpose
+  programming language designed for managing data held in a
+  relational database management systems (RDBMS).
+  http://en.wikipedia.org/wiki/SQL
+
+xlst/
+  XSLT (Extensible Stylesheet Language Transformations) is a
+  language for transforming XML documents into other XML
+  documents,[1] or other objects such as HTML for web pages,
+  plain text or into XSL Formatting Objects which can then be
+  converted to PDF, PostScript and PNG.[2]
+  [1] "Transformation". 2012-09-19.
+      http://www.w3.org/standards/xml/transformation
+  [2] "XML Output Method". 2012-09-19.
+      http://www.w3.org/TR/xslt#output  
+  http://en.wikipedia.org/wiki/XSLT
+
+xml/
+  Extensible Markup Language (XML) is a markup language that
+  defines a set of rules for encoding documents in a format
+  that is both human-readable and machine-readable.  It is
+  defined in the XML 1.0 Specification[2] produced by the W3C,
+  and several other related specifications,[3] all free open
+  standards.[4]
+
+yaml/
+  YAML Ain't Markup Language
+  http://en.wikipedia.org/wiki/YAML
