@@ -1,0 +1,62 @@
+# manifest
+# Created Wed Jul 27 09:14:41 AKDT 2016
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+# =====================================================================
+# =====================================================================
+#
+# Private htpc repositories
+# Public GitHub repositories
+#
+# =====================================================================
+# =====================================================================
+
+
+# =====================================================================
+#
+# Languages
+#
+# =====================================================================
+ssh://git@github.com/marcilr/git-lang-snmp                                snmp
+ssh://git@github.com/marcilr/git-lang-snmp-00INSTALL                      snmp/00INSTALL
+ssh://htpc/data/git/lang/snmp/snmpwalk                                    snmp/snmpwalk
+
+
+#
+# Extensible Markup Language (XML) is a markup language that defines a set of
+# rules for encoding documents in a format that is both human-readable and
+# machine-readable.  It is defined in the XML 1.0 Specification[2] produced by
+# the W3C, and several other related specifications,[3] all free open
+# standards.[4]
+#
+# [1] "XML Media Types, RFC 7303". Internet Engineering Task Force. July 2014.
+#     http://www.rfc-editor.org/rfc/rfc7303.txt
+#
+# [2] "XML 1.0 Specification". World Wide Web Consortium. Retrieved 2010-08-22.
+#     http://www.w3.org/TR/REC-xml
+#
+# [3] "XML and Semantic Web W3C Standards Timeline" (PDF). 2012-02-04.
+#     http://www.dblab.ntua.gr/~bikakis/XML%20and%20Semantic%20Web%\
+#     20W3C%20Standards%20Timeline-History.pdf
+#
+# [4] "W3C DOCUMENT LICENSE"
+#     http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
+#
+# https://en.wikipedia.org/wiki/XML#cite_note-2
+#
+ssh://htpc/data/git/lang/xml                                              xml
+ssh://htpc/data/git/lang/xml/docs                                         xml/docs
+ssh://htpc/data/git/lang/xml/syntax                                       xml/syntax
+ssh://htpc/data/git/lang/xml/xmlstarlet                                   xml/xmlstarlet
+ssh://htpc/data/git/lang/xml/xmlstarlet/syntax                            xml/xmlstarlet/syntax
