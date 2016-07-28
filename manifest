@@ -55,8 +55,8 @@ ssh://htpc/data/git/lang/snmp/snmpwalk                                    snmp/s
 #
 # https://en.wikipedia.org/wiki/XML#cite_note-2
 #
-ssh://htpc/data/git/lang/xml                                              xml
-ssh://htpc/data/git/lang/xml/docs                                         xml/docs
-ssh://htpc/data/git/lang/xml/syntax                                       xml/syntax
-ssh://htpc/data/git/lang/xml/xmlstarlet                                   xml/xmlstarlet
-ssh://htpc/data/git/lang/xml/xmlstarlet/syntax                            xml/xmlstarlet/syntax
+ssh://git@github.com/marcilr/git-lang-xml                                  xml
+ssh://git@github.com/marcilr/git-lang-xml-docs                             xml/docs
+ssh://git@github.com/marcilr/git-lang-xml-syntax                           xml/syntax
+ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet                       xml/xmlstarlet
+ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet-syntax                xml/xmlstarlet/syntax
