@@ -29,7 +29,7 @@
 #
 # =====================================================================
 ssh://git@github.com/marcilr/git-dev-lang-go                              go
-ssh://git@github.com/marcilr/git-dev-lang-go/00INSTALL                    go/00INSTALL
+ssh://git@github.com/marcilr/git-dev-lang-go-00INSTALL                    go/00INSTALL
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 
 # Archives for source on htpc
