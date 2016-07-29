@@ -28,6 +28,8 @@
 # Languages
 #
 # =====================================================================
+ssh://git@github.com/marcilr/git-dev-lang-go                              go
+ssh://git@github.com/marcilr/git-dev-lang-go/src                          go/src
 ssh://git@github.com/marcilr/git-dev-lang-snmp                            snmp
 ssh://git@github.com/marcilr/git-dev-lang-snmp-00INSTALL                  snmp/00INSTALL
 ssh://git@github.com/marcilr/git-dev-lang-snmp-snmpwalk                   snmp/snmpwalk
