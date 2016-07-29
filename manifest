@@ -28,9 +28,9 @@
 # Languages
 #
 # =====================================================================
-ssh://git@github.com/marcilr/git-lang-snmp                                snmp
-ssh://git@github.com/marcilr/git-lang-snmp-00INSTALL                      snmp/00INSTALL
-ssh://htpc/data/git/lang/snmp/snmpwalk                                    snmp/snmpwalk
+ssh://git@github.com/marcilr/git-dev-lang-snmp                            snmp
+ssh://git@github.com/marcilr/git-dev-lang-snmp-00INSTALL                  snmp/00INSTALL
+ssh://git@github.com/marcilr/git-dev-lang-snmp-snmpwalk                   snmp/snmpwalk
 
 
 #
