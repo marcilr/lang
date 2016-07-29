@@ -31,6 +31,11 @@
 ssh://git@github.com/marcilr/git-dev-lang-go                              go
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 
+
+# Whit Reeve's gopoller on github
+ssh://git@github.com/wdreeveii/gopoller                                   go/src/gopoller
+
+#
 #
 # Go poller written by GCI's Whit Reeve.
 # Proprietary, hence not putting on github.
