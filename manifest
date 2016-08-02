@@ -30,6 +30,14 @@
 # =====================================================================
 ssh://git@github.com/marcilr/git-dev-lang-go                              go
 ssh://git@github.com/marcilr/git-dev-lang-go-00INSTALL                    go/00INSTALL
+
+#
+# Has An Introduction to Programming Go by Caleb Doxsey
+# don't think this is gnu or redistributable.
+# https://docs.google.com/viewer?url=https%3A%2F%2Fwww.golang-book.com%2Fpublic%2Fpdf%2Fgobook.pdf
+#
+ssh://htpc/data/git/dev/lang/go/pdf                                       go/pdf
+
 ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 
