@@ -40,6 +40,7 @@ ssh://htpc/data/git/dev/lang/go/pdf                                       go/pdf
 
 ssh://git@github.com/marcilr/git-dev-lang-go-godebug                      go/godebug      
 ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
+ssh://git@github.com/marcilr/git-dev-lang-go-packages                     go/packages
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 
 # Archives for source on htpc
