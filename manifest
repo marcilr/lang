@@ -51,6 +51,7 @@ ssh://git@github.com/marcilr/git-dev-lang-go-packages-strings             go/pac
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 ssh://git@github.com/marcilr/git-dev-lang-go-test                         go/test
 ssh://git@github.com/marcilr/git-dev-lang-go-types                        go/types
+ssh://git@github.com/marcilr/git-dev-lang-go-types-hash                   go/types/hash
 
 
 # Archives for source on htpc
