@@ -50,6 +50,8 @@ ssh://git@github.com/marcilr/git-dev-lang-go-packages-regexp              go/pac
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-strings             go/packages/strings
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 ssh://git@github.com/marcilr/git-dev-lang-go-test                         go/test
+ssh://git@github.com/marcilr/git-dev-lang-go-types                        go/types
+
 
 # Archives for source on htpc
 ssh://htpc/data/git/dev/lang/go/src/00ARCHIVES                            go/src/00ARCHIVES
