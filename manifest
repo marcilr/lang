@@ -48,7 +48,6 @@ ssh://git@github.com/marcilr/git-dev-lang-go-packages-ini                 go/pac
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-regexp              go/packages/regexp
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-strings             go/packages/strings
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
-ssh://git@github.com/marcilr/git-dev-lang-go-strings                      go/strings
 ssh://git@github.com/marcilr/git-dev-lang-go-test                         go/test
 
 # Archives for source on htpc
