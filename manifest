@@ -40,6 +40,7 @@ ssh://htpc/data/git/dev/lang/go/pdf                                       go/pdf
 
 ssh://git@github.com/marcilr/git-dev-lang-go-arrays                       go/arrays
 ssh://git@github.com/marcilr/git-dev-lang-go-debug                        go/debug
+ssh://git@github.com/marcilr/git-dev-lang-go-debug-src                    go/debug/src
 ssh://git@github.com/marcilr/git-dev-lang-go-godebug                      go/godebug      
 ssh://git@github.com/marcilr/git-dev-lang-go-io                           go/io
 ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
