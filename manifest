@@ -61,6 +61,7 @@ ssh://git@github.com/marcilr/git-dev-lang-go-packages-sub-repositories-crypto   
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-testing             go/packages/testing
 ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
 ssh://git@github.com/marcilr/git-dev-lang-go-test                         go/test
+ssh://git@github.com/marcilr/git-dev-lang-go-tools                        go/tools
 ssh://git@github.com/marcilr/git-dev-lang-go-types                        go/types
 ssh://git@github.com/marcilr/git-dev-lang-go-types-hash                   go/types/hash
 
