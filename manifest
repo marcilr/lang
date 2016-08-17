@@ -43,6 +43,7 @@ ssh://git@github.com/marcilr/git-dev-lang-go-debug                        go/deb
 ssh://git@github.com/marcilr/git-dev-lang-go-debug-godebug                go/debug/godebug
 ssh://git@github.com/marcilr/git-dev-lang-go-debug-src                    go/debug/src
 ssh://git@github.com/marcilr/git-dev-lang-go-docs                         go/docs      
+ssh://git@github.com/marcilr/git-dev-lang-go-error-handling               go/error-handling
 ssh://git@github.com/marcilr/git-dev-lang-go-io                           go/io
 ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
 ssh://git@github.com/marcilr/git-dev-lang-go-packages                     go/packages
