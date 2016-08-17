@@ -82,6 +82,7 @@ ssh://htpc/data/git/dev/lang/go/src/poller                                go/src
 # Markup languages
 #
 ssh://git@github.com/marcilr/git-dev-lang-markup                          markup
+ssh://git@github.com/marcilr/git-dev-lang-markup-markdown                 markup/markdown
 
 ssh://git@github.com/marcilr/git-dev-lang-snmp                            snmp
 ssh://git@github.com/marcilr/git-dev-lang-snmp-00INSTALL                  snmp/00INSTALL
