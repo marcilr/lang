@@ -46,7 +46,6 @@ ssh://git@github.com/marcilr/git-dev-lang-go-docs                         go/doc
 ssh://git@github.com/marcilr/git-dev-lang-go-error-handling               go/error-handling
 ssh://git@github.com/marcilr/git-dev-lang-go-io                           go/io
 ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
-ssh://git@github.com/marcilr/git-dev-lang-go-mysql-go-sql-driver          go/mysql/go-sql-driver
 ssh://git@github.com/marcilr/git-dev-lang-go-packages                     go/packages
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-bufio               go/packages/bufio
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-fmt                 go/packages/fmt
