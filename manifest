@@ -54,6 +54,7 @@ ssh://git@github.com/marcilr/git-dev-lang-go-packages-ini                 go/pac
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-log                 go/packages/log
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-os                  go/packages/os
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-regexp              go/packages/regexp
+ssh://git@github.com/marcilr/git-dev-lang-go-packages-sql                 go/packages/sql
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-strconv             go/packages/strconv
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-strings             go/packages/strings
 ssh://git@github.com/marcilr/git-dev-lang-go-packages-sub-repositories    go/packages/sub-repositories
