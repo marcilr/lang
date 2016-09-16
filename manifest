@@ -84,8 +84,4 @@ ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk                   snmp/snmpw
 #
 # https://en.wikipedia.org/wiki/XML#cite_note-2
 #
-ssh://git@github.com/marcilr/lang-xml                                 xml
-ssh://git@github.com/marcilr/lang-xml-docs                            xml/docs
-ssh://git@github.com/marcilr/lang-xml-syntax                          xml/syntax
-ssh://git@github.com/marcilr/lang-xml-xmlstarlet                      xml/xmlstarlet
-ssh://git@github.com/marcilr/lang-xml-xmlstarlet-syntax               xml/xmlstarlet/syntax
+ssh://git@github.com/marcilr/xml                                      xml
