@@ -54,8 +54,8 @@ ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/pol
 #
 # Markup languages
 #
-ssh://git@github.com/marcilr/dev-lang-markup                          markup
-ssh://git@github.com/marcilr/dev-lang-markup-markdown                 markup/markdown
+ssh://git@github.com/marcilr/markup                                   markup
+ssh://git@github.com/marcilr/markdown                                 markup/markdown
 
 ssh://git@github.com/marcilr/dev-lang-snmp                            snmp
 ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL                  snmp/00INSTALL
