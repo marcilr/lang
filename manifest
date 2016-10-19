@@ -56,6 +56,16 @@ ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/pol
 #
 ssh://git@github.com/marcilr/markdown                                 markdown
 
+#
+# Perl
+# Pathologically Eclectic Rubbish Lister - Larry Wall
+# http://en.wikipedia.org/wiki/Perl
+#
+ssh://htpc/data/git/dev/lang/perl                                     perl
+
+#
+# SNMP 
+#
 ssh://git@github.com/marcilr/dev-lang-snmp                            snmp
 ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL                  snmp/00INSTALL
 ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk                   snmp/snmpwalk
