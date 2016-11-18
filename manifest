@@ -61,6 +61,9 @@ ssh://git@github.com/marcilr/markdown                                 markdown
 # Pathologically Eclectic Rubbish Lister - Larry Wall
 # http://en.wikipedia.org/wiki/Perl
 #
+# FIXME: This is only a placeholder.
+#        Perl repo needs to be migrated from old subversion.
+#
 ssh://htpc/data/git/dev/lang/perl                                     perl
 
 #
