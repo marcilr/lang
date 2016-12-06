@@ -28,26 +28,50 @@
 # Languages
 #
 # =====================================================================
-ssh://git@github.com/marcilr/git-dev-lang-go                              go
-ssh://git@github.com/marcilr/git-dev-lang-go-00INSTALL                    go/00INSTALL
-ssh://git@github.com/marcilr/git-dev-lang-go-mysql                        go/mysql
-ssh://git@github.com/marcilr/git-dev-lang-go-src                          go/src
+git@github.com:marcilr/go.git                                         go
+#ssh://git@github.com/marcilr/dev-lang-go                             go
+
+#
+# Has An Introduction to Programming Go by Caleb Doxsey
+# don't think this is gnu or redistributable.
+# https://docs.google.com/viewer?url=https%3A%2F%2Fwww.golang-book.com%2Fpublic%2Fpdf%2Fgobook.pdf
+#
+ssh://htpc/data/git/dev/lang/go/pdf                                   go/pdf
 
 # Archives for source on htpc
-ssh://htpc/data/git/dev/lang/go/src/00ARCHIVES                            go/src/00ARCHIVES
+ssh://htpc/data/git/dev/lang/go/src/00ARCHIVES                        go/src/00ARCHIVES
 
 # Whit Reeve's gopoller on github
-ssh://git@github.com/wdreeveii/gopoller                                   go/src/gopoller
+ssh://git@github.com/wdreeveii/gopoller                               go/src/gopoller
 
 #
 # Go poller written by GCI's Whit Reeve.
 # Proprietary, hence not putting on github.
 #
-ssh://htpc/data/git/dev/lang/go/src/poller                                go/src/poller
+ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/poller
 
-ssh://git@github.com/marcilr/git-dev-lang-snmp                            snmp
-ssh://git@github.com/marcilr/git-dev-lang-snmp-00INSTALL                  snmp/00INSTALL
-ssh://git@github.com/marcilr/git-dev-lang-snmp-snmpwalk                   snmp/snmpwalk
+
+#
+# Markdown
+#
+ssh://git@github.com/marcilr/markdown                                 markdown
+
+#
+# Perl
+# Pathologically Eclectic Rubbish Lister - Larry Wall
+# http://en.wikipedia.org/wiki/Perl
+#
+# FIXME: This is only a placeholder.
+#        Perl repo needs to be migrated from old subversion.
+#
+ssh://htpc/data/git/dev/lang/perl                                     perl
+
+#
+# SNMP 
+#
+ssh://git@github.com/marcilr/dev-lang-snmp                            snmp
+ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL                  snmp/00INSTALL
+ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk                   snmp/snmpwalk
 
 
 #
@@ -72,8 +96,4 @@ ssh://git@github.com/marcilr/git-dev-lang-snmp-snmpwalk                   snmp/s
 #
 # https://en.wikipedia.org/wiki/XML#cite_note-2
 #
-ssh://git@github.com/marcilr/git-lang-xml                                  xml
-ssh://git@github.com/marcilr/git-lang-xml-docs                             xml/docs
-ssh://git@github.com/marcilr/git-lang-xml-syntax                           xml/syntax
-ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet                       xml/xmlstarlet
-ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet-syntax                xml/xmlstarlet/syntax
+ssh://git@github.com/marcilr/xml                                      xml
