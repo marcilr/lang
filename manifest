@@ -38,9 +38,6 @@ git@github.com:marcilr/go.git                                         go
 #
 ssh://htpc/data/git/dev/lang/go/pdf                                   go/pdf
 
-# Archives for source on htpc
-ssh://htpc/data/git/dev/lang/go/src/00ARCHIVES                        go/src/00ARCHIVES
-
 # Whit Reeve's gopoller on github
 ssh://git@github.com/wdreeveii/gopoller                               go/src/gopoller
 
