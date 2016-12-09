@@ -67,9 +67,7 @@ ssh://htpc/data/git/dev/lang/perl                                     perl
 #
 # SNMP 
 #
-ssh://git@github.com/marcilr/snmp                                      snmp
-#ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL                  snmp/00INSTALL
-#ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk                   snmp/snmpwalk
+ssh://git@github.com/marcilr/snmp                                     snmp
 
 
 #
