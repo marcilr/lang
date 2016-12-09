@@ -44,8 +44,9 @@ ssh://git@github.com/wdreeveii/gopoller                               go/src/gop
 #
 # Go poller written by GCI's Whit Reeve.
 # Proprietary, hence not putting on github.
+# FIXME: Need to track this down at GCI and restore.
 #
-ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/poller
+#ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/poller
 
 
 #
