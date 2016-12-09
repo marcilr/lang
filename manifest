@@ -34,7 +34,7 @@ git@github.com:marcilr/go.git                                         go
 #
 # Has An Introduction to Programming Go by Caleb Doxsey
 # don't think this is gnu or redistributable.
-# https://docs.google.com/viewer?url=https%3A%2F%2Fwww.golang-book.com%2Fpublic%2Fpdf%2Fgobook.pdf
+# https://www.golang-book.com/public/pdf/gobook.pdf
 #
 ssh://htpc/data/git/dev/lang/go/pdf                                   go/pdf
 
