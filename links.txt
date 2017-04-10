@@ -12,3 +12,20 @@ Java Vs. C#: Which Performs Better In the 'Real World'?
 Posted by timothy on Thursday January 17, @10:04AM
 from the oh-you-tease dept.
 http://developers.slashdot.org/story/13/01/17/1451250/java-vs-c-which-performs-better-in-the-real-world
+
+Rust is a systems programming language that runs blazingly fast,
+prevents segfaults, and guarantees thread safety.
+https://www.rust-lang.org/en-US/
+
+Swift (from Apple)
+https://swift.org/documentation/#the-swift-programming-language
+
+Swift (programming language)
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Swift_(programming_language)
+
+Which server-side programming language is the best for a starting
+programmer: Perl, PHP, Python, Ruby, JavaScript (Node), Scala, Java,
+Go, ASP.NET, or ColdFusion?
+https://www.quora.com/Which-server-side-programming-language-is-the-best-for-a-starting-programmer-Perl-PHP-Python-Ruby-JavaScript-Node-Scala-Java-Go-ASP-NET-or-ColdFusion
+
