@@ -28,6 +28,15 @@
 # Languages
 #
 # =====================================================================
+
+# =====================================================================
+#
+# Angular
+# https://angular.io/
+#
+# =====================================================================
+ssh://htpc/git/dev/lang/angular                                       angular
+
 git@github.com:marcilr/go.git                                         go
 #ssh://git@github.com/marcilr/dev-lang-go                             go
 
