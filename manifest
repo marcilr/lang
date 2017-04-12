@@ -37,6 +37,13 @@
 # =====================================================================
 ssh://htpc/git/dev/lang/angular                                       angular
 
+
+# =====================================================================
+#
+# The Go Programming Language
+# https://golang.org/
+#
+# =====================================================================
 git@github.com:marcilr/go.git                                         go
 #ssh://git@github.com/marcilr/dev-lang-go                             go
 
@@ -45,7 +52,7 @@ git@github.com:marcilr/go.git                                         go
 # don't think this is gnu or redistributable.
 # https://www.golang-book.com/public/pdf/gobook.pdf
 #
-ssh://htpc/data/git/dev/lang/go/pdf                                   go/pdf
+ssh://htpc/git/dev/lang/go/pdf                                        go/pdf
 
 # Whit Reeve's gopoller on github
 ssh://git@github.com/wdreeveii/gopoller                               go/src/gopoller
