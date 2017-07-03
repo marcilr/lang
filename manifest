@@ -28,18 +28,23 @@
 # Languages
 #
 # =====================================================================
+
+
+# =====================================================================
+#
+# The Go Programming Language
+# https://golang.org/
+#
+# =====================================================================
 git@github.com:marcilr/go.git                                         go
 #ssh://git@github.com/marcilr/dev-lang-go                             go
 
 #
 # Has An Introduction to Programming Go by Caleb Doxsey
 # don't think this is gnu or redistributable.
-# https://docs.google.com/viewer?url=https%3A%2F%2Fwww.golang-book.com%2Fpublic%2Fpdf%2Fgobook.pdf
+# https://www.golang-book.com/public/pdf/gobook.pdf
 #
-ssh://htpc/data/git/dev/lang/go/pdf                                   go/pdf
-
-# Archives for source on htpc
-ssh://htpc/data/git/dev/lang/go/src/00ARCHIVES                        go/src/00ARCHIVES
+ssh://htpc/git/dev/lang/go/pdf                                        go/pdf
 
 # Whit Reeve's gopoller on github
 ssh://git@github.com/wdreeveii/gopoller                               go/src/gopoller
@@ -47,26 +52,46 @@ ssh://git@github.com/wdreeveii/gopoller                               go/src/gop
 #
 # Go poller written by GCI's Whit Reeve.
 # Proprietary, hence not putting on github.
+# FIXME: Need to track this down at GCI and restore.
 #
-ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/poller
+#ssh://htpc/data/git/dev/lang/go/src/poller                            go/src/poller
 
 
+# =====================================================================
 #
 # Markdown
 #
+# =====================================================================
 ssh://git@github.com/marcilr/markdown                                 markdown
 
+# =====================================================================
 #
 # Perl
 # Pathologically Eclectic Rubbish Lister - Larry Wall
 # http://en.wikipedia.org/wiki/Perl
 #
+<<<<<<< HEAD
 ssh://htpc/data/git/dev/lang/perl                                     perl
+=======
+# FIXME: This is only a placeholder.
+#        Perl repo needs to be migrated from old subversion.
+#
+# =====================================================================
+ssh://htpc/git/dev/lang/perl                                          perl
+>>>>>>> d1d28319d750ef1a8621b6da938b253e87887a01
 
+
+# =====================================================================
 #
 # SNMP 
 #
+<<<<<<< HEAD
 ssh://git@github.com/marcilr/snmp                                     snmp
+=======
+# =====================================================================
+ssh://git@github.com/marcilr/snmp                                     snmp
+
+>>>>>>> d1d28319d750ef1a8621b6da938b253e87887a01
 
 #
 # Extensible Markup Language (XML) is a markup language that defines a set of
