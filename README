@@ -9,22 +9,6 @@ Languages
 Other: jQuery, JSON, Node.js, and HTML5
 
 
-Books
-=====
-GNU Bash Reference Manual
-by Chet Ramey and Brian Fox
-ISBN: 0-9541617-7-7 (ISBN-13: 978-0-9541617-7-4)
-pages: 172 (from bash.pdf)
-This book has received a top-rated review in Linux User
-and Developer Magazine:
-"An essential resource .... the most detailed coverage
-available for all aspects of Bash" --- Linux User and
-Developer Magazine (Issue 37, Mar 2004)
-Looks very nice.  Putting here for lack of better location.
-http://www.network-theory.co.uk/docs/bashref/ShellParameterExpansion.html
-https://www.gnu.org/software/bash/manual/bash.pdf
-
-
 Filelist
 ========
 bash/
