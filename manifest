@@ -61,18 +61,12 @@ ssh://git@github.com/marcilr/markdown                                 markdown
 # Pathologically Eclectic Rubbish Lister - Larry Wall
 # http://en.wikipedia.org/wiki/Perl
 #
-# FIXME: This is only a placeholder.
-#        Perl repo needs to be migrated from old subversion.
-#
 ssh://htpc/data/git/dev/lang/perl                                     perl
 
 #
 # SNMP 
 #
-ssh://git@github.com/marcilr/dev-lang-snmp                            snmp
-ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL                  snmp/00INSTALL
-ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk                   snmp/snmpwalk
-
+ssh://git@github.com/marcilr/snmp                                     snmp
 
 #
 # Extensible Markup Language (XML) is a markup language that defines a set of
