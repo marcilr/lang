@@ -80,6 +80,13 @@ ssh://git@github.com/marcilr/markdown   markdown
 ssh://htpc/git/dev/lang/perl   perl
 
 
+#
+# Python
+# https://www.python.org/
+#
+ssh://htpc/git/dev/lang/python   python
+
+
 # =====================================================================
 #
 # SNMP 
