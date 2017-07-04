@@ -80,17 +80,20 @@ ssh://git@github.com/marcilr/markdown   markdown
 ssh://htpc/git/dev/lang/perl   perl
 
 
+# ============================================
 #
 # Python
 # https://www.python.org/
 #
-ssh://htpc/git/dev/lang/python   python
+# ============================================
+ssh://git@github.com/marcilr/python   python
 
 
-# =====================================================================
+# ============================================
 #
 # SNMP 
 #
+# ============================================
 ssh://git@github.com/marcilr/snmp   snmp
 
 #
