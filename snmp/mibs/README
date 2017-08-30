@@ -1,0 +1,22 @@
+README
+Created Wed Aug 30 11:23:28 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+browsers/
+  MIB browsers
+
+docs/
+  Documentation
+
+links.txt
+  MIB related links
+
+mibs.txt
+  Management information base
+  https://en.wikipedia.org/wiki/Management_information_base
+
+syntax/
+  Syntax got MIBs
