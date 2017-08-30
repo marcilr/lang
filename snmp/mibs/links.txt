@@ -1,0 +1,39 @@
+links.txt
+Created Tue Nov 25 14:45:21 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+mibs related links
+
+
+Links
+=====
+How do I add a MIB to the tools?
+FAQ:Applications 02
+http://www.net-snmp.org/wiki/index.php/FAQ:Applications_02
+
+How to open a MIB file in tkmib?
+Great reference to mibs directories and snmpb.
+http://askubuntu.com/questions/135024/how-to-open-a-mib-file-in-tkmib
+
+Management information base
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Management_information_base
+
+MIB for Dummies
+http://www.net-snmp.org/wiki/index.php/MIB_for_Dummies
+
+Mib2c
+The mib2c script is badly named.  It really should have been named
+mib2anything, as it's actually can provide output tailored to anything
+you might want to change MIB data into.
+http://www.net-snmp.org/wiki/index.php/Mib2c
+
+TUT:Using and loading MIBS
+http://www.net-snmp.org/wiki/index.php/TUT:Using_and_loading_MIBS
+
+TUT:Writing a MIB Module
+http://www.net-snmp.org/wiki/index.php/TUT:Writing_a_MIB_Module
+
+Writing your own MIBs
+http://www.net-snmp.org/wiki/index.php/Writing_your_own_MIBs
