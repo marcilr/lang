@@ -7,6 +7,9 @@ Filelist
 ========
 00INSTALL/
 
+glossary.txt
+  Glossary for snmp
+
 snmptrapd/
 
 snmpwalk/
