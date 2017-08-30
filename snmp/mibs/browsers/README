@@ -12,12 +12,18 @@ iReasoning/     A graphical MIB browser.
                 tree to open specific MIB files.
                  http://ireasoning.com/mibbrowser.shtml
 
-links.txt       MIB browser related links
+links.txt
+    MIB browser related links
 
 mbrowse/        A graphical SNMP MIB browser based on GTK+ and Net-SNMP
                 GNU General Public License version 2.0 (GPLv2)
                 http://sourceforge.net/projects/mbrowse/?source=typ_redirect
                 http://mbrowse.sourceforge.net/
+
+
+browsers.txt
+    MIB browsers - Gotta view those MIBs
+
  
 qtmib/          An easy-to-use SNMP MIB Browser based on QT4 library.  It is
                 build as a front-end for net-snmp, and it allows the user to
