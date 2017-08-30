@@ -1,0 +1,33 @@
+determine-dependencies.txt
+Created Tue Mar 10 11:49:42 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Determine dependencies of mib files
+
+
+Re: How can you know the dependency of SIM MIBs?
+Post Options
+08-01-2011 04:03 AM
+
+At the starting of each MIB there will be few lines ending with FROM. For Eg:
+
+IANAifType-MIB DEFINITIONS ::= BEGIN
+
+IMPORTS
+MODULE-IDENTITY, mib-2 FROM SNMPv2-SMI
+TEXTUAL-CONVENTION FROM SNMPv2-TC;
+
+In this case you need to have SNMPV2-SMI & SNMPv2-TC are the dependency.
+
+Sometimes it happens that you might see just one FROM file and the dependent
+file has additional dependency. but the concept remains same.
+
+HTH.
+
+
+
+Links
+=====
+How can you know the dependency of SIM MIBs?
+http://h30499.www3.hp.com/t5/Network-Management-OpenView-NNM/How-can-you-know-the-dependency-of-SIM-MIBs/td-p/5287441#.VP9KGHXN97g
