@@ -1,0 +1,30 @@
+README
+Created Mon Mar  9 11:23:40 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+books.txt
+  Books for mibs
+
+check-existing-mibs.txt
+  Installing net-snmp MIBs on Ubuntu and Debian
+  http://l3net.wordpress.com/2013/05/12/installing-net-snmp-mibs-on-ubuntu-and-debian/]
+
+determine-dependencies.txt
+  Determine dependencies of mib files.
+
+get-mibsdirs.txt
+  Get mibs directories.
+
+installing-mibs.txt
+ Installing MIBs
+ http://l3net.wordpress.com/2013/05/12/installing-net-snmp-mibs-on-ubuntu-and-debian/
+
+mibsdirs.txt
+  mibs directories
+
+paths.txt
+  Paths of mib files.
+
