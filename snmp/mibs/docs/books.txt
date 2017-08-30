@@ -1,0 +1,82 @@
+books.txt
+Created Mon Mar  9 13:44:58 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books for mibs
+
+
+Understanding SNMP MIBs Paperback
+  December 13, 1996
+  by David T. Perkins  and Evan McGinnis
+  Paperback: 528 pages
+  Publisher: Prentice Hall (December 13, 1996)
+  Language: English
+  ISBN-10: 0134377087
+  ISBN-13: 978-0134377087
+  Product Dimensions: 7 x 1.1 x 9 inches
+  Shipping Weight: 1.8 pounds
+
+  Superb book !
+  by A Customer on June 15, 1999
+  Format: Paperback
+  This is simply one of the best books I've come across in any field.
+  If you want to write your own mibs, or if you are writing an snmp
+  agent, this book is invaluable.  Very lucid, very neat illustrations.
+  I highly recommend it.  Yes, you do need some network management
+  exposure to get the best out of this book.
+
+  Worth the Money
+  By Terrence on January 22, 2000
+  Format: Paperback
+  I have read and reviewed most of these SNMP books.  In general, they are not
+  very good. This one is EXCELLENT.  However, it is definitely for people
+  developing mibs and not somebody looking to understand how SNMP works.  It
+  is a resource as an SNMP developer I could not live without.
+  price: $62.62 (Amazon prime - Match 9, 2015)
+
+
+SNMP MIB Handbook Paperback
+  by Larry Walsh
+
+  Essential Guide to SNMP MIB Development, Use, and Diagnosis.  The Simple
+  Network Management Protocol (SNMP) allows Managers (software) to communicate
+  with Agents (also software) on network-managed devices, to collect status,
+  for configuration and control, and to receive unsolicited events (traps). 
+
+  Paperback: 408 pages
+  Publisher: Wyndham Press (March 20, 2008)
+  Language: English
+  ISBN-10: 0981492207
+  ISBN-13: 978-0981492209
+  Product Dimensions: 7.5 x 0.8 x 9.2 inches
+  Shipping Weight: 1.6 pounds 
+
+  The Bible of MIB Design
+  By O. Gura on January 7, 2009
+  Format: Paperback
+  Let me start simple: I'm neither a book author nor a professional "reviewer".
+  The only reason for this review -- and yes, this is my very first one -- is
+  that I'm truly impressed with "SNMP MIB Handbook".  Let me try to explain
+  how did I happen to find it -- and why do I consider it
+  "The Bible of MIB Design".
+  ...
+  After reading some introductory tutorials and not-so-introductory books, it
+  occurred to me that something is missing, while 80% of information is
+  "covered" again and again.  Everybody talks about familiar subject: SNMP
+  history, the fact that SNMP is based on UDP -- and how it is encapsulated;
+  differences between SNMPv1, SNMPv2c and SNMPv3, the internal format of
+  different types of SNMP messages, what is MIB, the concept of TRAP
+  (notification), how to configure and use various commercial or freeware SNMP
+  tools, etc.
+
+  What's missing then? Here is the short answer: nobody tells you how to
+  DESIGN *your* MIB.
+
+  Let me make an analogy: there are plenty books on English Grammar; there are
+  also quite a few on different reading "techniques".  But how many books will
+  teach you writing?  Not writing in general, but writing *good prose* or
+  *nice poems*? There you are!
+  ...
+
+  price: $35.03 (Amazon prime - March 9, 2015)
