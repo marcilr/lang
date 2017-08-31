@@ -25,7 +25,6 @@ mbrowse/
 
 browsers.txt
     MIB browsers - Gotta view those MIBs
-
  
 qtmib/
     An easy-to-use SNMP MIB Browser based on QT4 library.  It is
@@ -34,10 +33,6 @@ qtmib/
     SNMPv2c, and it is released under GPL v2 license.
     http://qtmib.sourceforge.net/                      
 
-tkmib/
-    A graphical MIB browser (tkmib), using Tk/perl.
-    tkmib is broken use snmpb
-
 snmpb/
     I highly recommend using another MIB browser, such as snmpb.
     The functionality and interface of SnmpB are far superior for
@@ -45,3 +40,8 @@ snmpb/
     tkmib.
     http://askubuntu.com/questions/135024/how-to-open-a-mib-file-in-tkmib
     http://sourceforge.net/projects/snmpb/
+
+tkmib/
+    A graphical MIB browser (tkmib), using Tk/perl.
+    tkmib is broken use snmpb
+    http://www.net-snmp.org/docs/man/tkmib.html
