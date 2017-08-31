@@ -15,5 +15,9 @@ iReasoning MIB Browser License Agreement (Personal Edition)
 Download Free Personal Edition
 http://ireasoning.com/downloadmibbrowserlicense.shtml
 
+Java SNMP API 6.0
+iReasoning Networks
+http://ireasoning.com/snmpapi.shtml
+
 MIB Browser Version 10 User Guide
 http://ireasoning.com/browser/help.shtml
