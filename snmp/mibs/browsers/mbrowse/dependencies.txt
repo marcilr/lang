@@ -1,0 +1,23 @@
+dependencies.txt
+Created Tue Dec  9 09:06:14 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debian wheezy 7.7 amd64 dependencies
+
+
+libgtk2.0-dev - development files for the GTK+ library
+libgtk-3-dev - development files for the GTK+ library
+  Had both gtk2 and gtk3 libraries install on GCI Network Services covellite
+  debian wheezy 7.7 and64 workstation.  Hence installed both gtk2 and gtk3
+  dev libraries.
+
+libsnmp-dev - SNMP (Simple Network Management Protocol) development files
+
+snmp - SNMP (Simple Network Management Protocol) applications
+  File list of package snmp in wheezy of architecture amd64
+  Has snmpget, snmpset, snmpstatus, and snmpwalk among others.
+  Good stuff.
+  https://packages.debian.org/wheezy/amd64/snmp/filelist
+
+
