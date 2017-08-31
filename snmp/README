@@ -7,6 +7,9 @@ Filelist
 ========
 00INSTALL/
 
+bin/
+  Binaries - clients & daemons
+
 glossary.txt
   Glossary for snmp
 
