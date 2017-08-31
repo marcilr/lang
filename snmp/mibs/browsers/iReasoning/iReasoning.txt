@@ -1,0 +1,30 @@
+iReasoning.txt
+Created Tue Nov 25 15:52:33 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+iReasoning MIB browser is a powerful and easy-to-use tool powered by
+iReasoning SNMP API . MIB browser is an indispensable tool for engineers to
+manage SNMP enabled network devices and applications.  It allows users to
+load standard, proprietary MIBs, and even some mal-formed MIBs.  It also
+allows them to issue SNMP requests to retrieve agent's data, or make changes
+to the agent.  A built-in trap receiver can receive and process SNMP traps
+according to its rule engine.
+
+Download iReasoning mibbrowser.zip archive.  Expanded and
+ran ireasoning/mibbrowser/browser.command in order to properly open mibs.
+Running browser.sh does not work.  It will not properly traverse the directory
+tree to open specific MIB files.
+
+Once MIB opened not so bad.  Not great either.
+
+
+
+Links
+=====
+iReasoning MIB browser 
+http://ireasoning.com/mibbrowser.shtml
+
+iReasoning MIB Browser License Agreement (Personal Edition)
+Download Free Personal Edition
+http://ireasoning.com/downloadmibbrowserlicense.shtml
