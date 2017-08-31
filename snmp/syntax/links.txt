@@ -1,0 +1,16 @@
+links.txt
+Created Mon Mar  9 12:21:04 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Syntax related links
+
+
+Links
+=====
+SNMP Command Examples
+Has snmpget, snmpwalk, snmpbulkwalk, snmptable, snmpset, and snmptrapd
+http://docs.oracle.com/cd/E19201-01/820-6413-13/SNMP_commands_reference_appendix.html
+
+TUT:snmptranslate
+http://www.net-snmp.org/wiki/index.php/TUT:snmptranslate
