@@ -1,0 +1,40 @@
+links.txt
+Created Wed Jan 21 09:59:18 AKST 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+snmptrapd related links
+
+
+Links
+=====
+Net-SNMP Tutorial -- traps
+http://www.net-snmp.org/tutorial/tutorial-5/commands/snmptrap.html
+
+RSYSLOG Templates
+http://www.rsyslog.com/doc/master/configuration/templates.html
+
+rsyslog.conf examples
+Shows template use
+http://www.rsyslog.com/doc/rsyslog_conf_examples.html
+
+snmptrapd - Receive and log SNMP trap messages.
+http://www.net-snmp.org/docs/man/snmptrapd.html
+
+Snmptrapd
+http://www.net-snmp.org/wiki/index.php/Snmptrapd
+
+TUT:Configuring snmptrapd to parse MIBS from 3rd party Vendors
+AKA, "How the hell do I log Cisco-specific traps?"
+http://www.net-snmp.org/wiki/index.php/TUT:Configuring_snmptrapd_to_parse_MIBS_from_3rd_party_Vendors
+
+Understanding Simple Network Management Protocol (SNMP) Traps
+In SNMPv2c trap is defined as NOTIFICATION and formatted differently compared
+to SNMPv1. It has these parameters:
+o sysUpTime - This is the same as Time stamp in SNMPv1 trap.
+o snmpTrapOID - Trap identification field. For generic traps, values are
+defined in RFC 1907, for vendor specific traps snmpTrapOID is essentially a
+concatenation of the SNMPv1 Enterprise parameter and two additional
+sub-identifiers, '0', and the SNMPv1 Specific trap code parameter.
+o VarBindList - This is a list of variable-bindings.
+http://www.cisco.com/c/en/us/support/docs/ip/simple-network-management-protocol-snmp/7244-snmp-trap.html
