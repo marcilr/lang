@@ -1,0 +1,20 @@
+README
+Created Thu Aug 31 08:27:54 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+dependencies.txt
+  mbrowse debian dependencies
+
+INSTALL
+  Installation of mbrowse on debian
+
+links.txt
+  mbrowse related links
+  
+mbrowse.txt
+  mbrowse
+  A graphical SNMP MIB browser based on GTK+ and Net-SNMP
+  http://mbrowse.sourceforge.net/
