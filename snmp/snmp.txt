@@ -1,0 +1,21 @@
+snmp.txt
+Created Thu Aug 31 15:35:34 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Simple Network Management Protocol (SNMP) is an Internet-standard protocol 
+or collecting and organizing information about managed devices on IP networks
+and for modifying that information to change device behavior. Devices that
+typically support SNMP include cable modems, routers, switches, servers,
+workstations, printers, and more.[1]
+--wikipedia.org
+
+
+Links
+=====
+[1] Douglas R. Mauro & Kevin J. Schmidt. (2001).  Essential SNMP (1st ed.).
+    Sebastopol, CA: O’Reilly & Associates.
+
+Simple Network Management Protocol
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol#cite_note-ESNMP-1
