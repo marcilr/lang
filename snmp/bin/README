@@ -8,6 +8,9 @@ Filelist
 snmpd/
   snmpd - daemon to respond to SNMP request packets
 
+snmpget/
+  snmpget - communicates with a network entity using SNMP GET requests
+
 snmptrapd/
   snmptrapd - Receive and log SNMP trap messages.
 
