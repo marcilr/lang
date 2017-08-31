@@ -14,6 +14,9 @@ snmpget/
 snmpgetnext/
   snmpgetnext - communicates with a network entity using SNMP GETNEXT requests
 
+snmpset/
+  snmpset - communicates with a network entity using SNMP SET requests
+
 snmptrapd/
   snmptrapd - Receive and log SNMP trap messages.
 
