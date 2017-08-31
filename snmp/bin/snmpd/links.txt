@@ -1,0 +1,18 @@
+links.txt
+Created Tue Mar 10 09:39:37 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+snmpd related links
+
+
+Links
+=====
+Net-SNMP Tutorial -- snmpd
+This is a basic tutorial for configuring the Net-SNMP snmpd daemon.  Note the
+word basic.  This tutorial covers the use of snmpconf to create a
+configuration file (snmpd.conf) for snmpd.  Note that snmpconf only
+understands a subset of the tokens that snmpd offers, so it is possible that
+some tokens will remain undocumented.  Consult the snmpd.conf man page for
+more information on those tokens.
+http://net-snmp.sourceforge.net/tutorial/tutorial-5/demon/snmpd.html
