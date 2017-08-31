@@ -5,9 +5,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+snmpd/
+  snmpd - daemon to respond to SNMP request packets
+
 snmptrapd/
   snmptrapd - Receive and log SNMP trap messages.
 
 snmpwalk/
   snmpwalk - retrieve a subtree of management values using SNMP GETNEXT requests
-
