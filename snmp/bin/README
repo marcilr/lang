@@ -11,6 +11,9 @@ snmpd/
 snmpget/
   snmpget - communicates with a network entity using SNMP GET requests
 
+snmpgetnext/
+  snmpgetnext - communicates with a network entity using SNMP GETNEXT requests
+
 snmptrapd/
   snmptrapd - Receive and log SNMP trap messages.
 
