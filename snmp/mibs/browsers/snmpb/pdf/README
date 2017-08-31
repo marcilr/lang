@@ -1,0 +1,11 @@
+README
+Created Tue Nov 25 14:40:21 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+snmpd.pdf
+  How to open a MIB file in tkmib?
+  Great reference to tkmib being broken and snmpd being the way.
+  http://askubuntu.com/questions/135024/how-to-open-a-mib-file-in-tkmib
