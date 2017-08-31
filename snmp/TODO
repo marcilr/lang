@@ -1,0 +1,15 @@
+TODO
+Created Thu Aug 31 08:17:41 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
++++ Thu Aug 31 08:17:41 AKDT 2017 - One idea is to right a mib browser for
+    linux, under say xfce, that I really like.
+
+    The API to use would be the net-snmp library:
+      Net-SNMP is available for many Unix and Unix-like
+      operating systems and also for Microsoft Windows.
+      http://net-snmp.sourceforge.net/
+
+    The Net-SNMP C API
+    http://cuddletech.com/articles/snmp/node23.html
