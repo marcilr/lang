@@ -17,6 +17,9 @@ snmpgetnext/
 snmpset/
   snmpset - communicates with a network entity using SNMP SET requests
 
+snmptranslate/
+  snmptranslate - translate MIB OID names between numeric and textual forms
+
 snmptrapd/
   snmptrapd - Receive and log SNMP trap messages.
 
