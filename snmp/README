@@ -10,6 +10,9 @@ Filelist
 glossary.txt
   Glossary for snmp
 
+lib/
+  Libraries
+
 mibs/
   A management information base (MIB) is a database used for managing the
   entities in a communication network.  Most often associated with the
