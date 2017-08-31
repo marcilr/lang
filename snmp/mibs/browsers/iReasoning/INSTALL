@@ -1,0 +1,59 @@
+INSTALL
+Created Tue Dec  9 09:36:07 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of iReasoning MIB browser on GCI Network Services, OSS
+Debian wheezy 7.7 amd64 workstation.
+
+
+1. Download iReasoning MIB browser, mibbrowser.zip, from download page:
+http://ireasoning.com/downloadmibbrowserlicense.shtml
+
+2. Unzip mibbrowser.zip:
+$ unzip mibbrowser.zip
+
+Observe expanded mib browser:
+$ ls ireasoning/mibbrowser/browser.command 
+ireasoning/mibbrowser/browser.command
+
+NOTE: Be advised that running browser.sh runs a broken mib browser.  It
+      cannot properly traverse directories to open mib files.
+
+3. Install ireasoning/ jar files to accessible directory:
+# mkdir -p /usr/local/bin/lib
+# cp ireasoning/mibbrowser/lib/browseraux.jar /usr/local/bin/lib
+# cp ireasoning/mibbrowser/lib/browser.jar /usr/local/bin/lib
+# chown root:staff /usr/local/bin/lib/browseraux.jar
+
+NOTE: Yes this is required.  Updating CLASSPATH alone did not work.
+
+4. Install ireasoning/ mib browser to /usr/local/ireasoning directory:
+# chown -R root:staff ireasoning/
+# mv ireasoning/ /usr/local/
+
+
+NOTE: Checking for unset varible is more complicated than you would think:
+      How to check if a variable is set in bash?
+      http://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
+
+5. Created "ireasoning" symlink to browser.command executable
+for improved execution:
+# ln -s /usr/local/ireasoning/mibbrowser/browser.command \
+/usr/local/bin/ireasoning
+
+6. Test it:
+$ ireasoning &
+
+Runs good.
+
+
+
+Links
+=====
+iReasoning MIB browser 
+http://ireasoning.com/mibbrowser.shtml
+
+iReasoning MIB Browser License Agreement (Personal Edition)
+Download Free Personal Edition
+http://ireasoning.com/downloadmibbrowserlicense.shtml
