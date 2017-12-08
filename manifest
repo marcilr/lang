@@ -88,6 +88,15 @@ ssh://htpc/git/dev/lang/perl   perl
 # ============================================
 ssh://git@github.com/marcilr/python   python
 
+# ============================================
+#
+# Ruby
+# A Programmer's Best Friend
+# https://www.ruby-lang.org/en/
+#
+# ============================================
+ssh://git@github.com/marcilr/ruby   ruby
+
 
 # ============================================
 #
