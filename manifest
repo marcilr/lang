@@ -97,6 +97,14 @@ ssh://git@github.com/marcilr/python   python
 # ============================================
 ssh://git@github.com/marcilr/ruby   ruby
 
+# ============================================
+#
+# Ruby on Rails
+# reubyonrails.org
+#
+# ============================================
+ssh://git@github.com/marcilr/ror   ror
+
 
 # ============================================
 #
