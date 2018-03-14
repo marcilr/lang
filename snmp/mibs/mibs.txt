@@ -3,15 +3,7 @@ Created Wed Mar  5 14:52:29 AKST 2014
 Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Management Information Base (MIB)
-
-
-A management information base (MIB) is a database used for managing the
-entities in a communication network.  Most often associated with the
-Simple Network Management Protocol (SNMP), the term is also used more
-generically in contexts such as in OSI/ISO Network management model.
-
---wikipedia.org/
+MIBs - Management Information Base
 
 
 Links

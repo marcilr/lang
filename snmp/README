@@ -1,27 +1,59 @@
 README
-Created Wed Aug 30 11:17:55 AKDT 2017
-Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+Created Thu Jun 26 08:20:21 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Filelist
 ========
 00INSTALL/
+  Installation of snmp
 
-bin/
-  Binaries - clients & daemons
+docs/
+  Documentation
 
 glossary.txt
-  Glossary for snmp
+  Glossary for SNMP
 
-lib/
-  Libraries
+links.txt
+  SNMP related links
+
+/media/phoenix/NSG/SNMP MIBs
+  GCI Network Services, OSS MIB path
 
 mibs/
-  A management information base (MIB) is a database used for managing the
-  entities in a communication network.  Most often associated with the
-  Simple Network Management Protocol (SNMP), the term is also used more
-  generically in contexts such as in OSI/ISO Network management model.
-  https://en.wikipedia.org/wiki/Management_information_base
+  MIBs - Management Information Base
+  http://en.wikipedia.org/wiki/Management_information_base
 
-syntax/
-  Syntax
+mib-browsers/
+  MIB browsers - Gotta view those MIBs
+
+net-snmp/
+  Net-SNMP is a suite of applications used to implement
+  SNMP v1, SNMP v2c and SNMP v3 using both IPv4 and IPv6. 
+  http://www.net-snmp.org/
+
+packages.txt
+  SNMP packages for Debian
+
+pdf/
+  Portable Document Format files
+
+snmpget/
+  Communicates with a network entity using SNMP GET requests
+
+snmpgetnext/
+  Communicates with a network entity using SNMP GETNEXT requests
+
+snmpset/
+  Communicates with a network entity using SNMP SET requests
+
+snmptranslate/
+  Translate  MIB  OID names between numeric and textual
+  forms.  Can be used to view the MIB tree with:
+  $ snmptranslate -Tp
+
+snmp.txt
+  simple Network Management Protocol (SNMP)
+
+snmpwalk/
+  Retrieve a subtree of management values using SNMP GETNEXT requests

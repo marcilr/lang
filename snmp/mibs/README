@@ -1,22 +1,19 @@
 README
-Created Wed Aug 30 11:23:28 AKDT 2017
+Created Tue Apr  4 15:25:59 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Filelist
 ========
-browsers/
-  MIB browsers
+check-existing-mibs.txt
+  Check existing MIBs
 
-docs/
-  Documentation
+get-mibsdirs.txt
+  Get mibs directories
 
-links.txt
-  MIB related links
+installing-mibs.txt
+  Installing MIBs
+  http://l3net.wordpress.com/2013/05/12/installing-net-snmp-mibs-on-ubuntu-and-debian/
 
 mibs.txt
-  Management information base
-  https://en.wikipedia.org/wiki/Management_information_base
-
-syntax/
-  Syntax got MIBs
+  MIBs - Management Information Base

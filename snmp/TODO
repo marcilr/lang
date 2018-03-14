@@ -1,19 +1,9 @@
 TODO
-Created Thu Aug 31 08:17:41 AKDT 2017
-Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+Created Mon Mar  9 16:07:23 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-+++ Thu Aug 31 08:17:41 AKDT 2017 - One idea is to right a mib browser for
-    linux, under say xfce, that I really like.
++++ Mon Mar  9 16:07:23 AKDT 2015 - Merge terminology to glossary from:
 
-    The API to use would be the net-snmp library:
-      Net-SNMP is available for many Unix and Unix-like
-      operating systems and also for Microsoft Windows.
-      http://net-snmp.sourceforge.net/
-
-    Granted mbrowse is pretty good:
-      A graphical SNMP MIB browser based on GTK+ and Net-SNMP
-      http://mbrowse.sourceforge.net/
-
-    The Net-SNMP C API
-    http://cuddletech.com/articles/snmp/node23.html
+SNMP Tutorial Part 2: Rounding Out the Basics
+http://www.networkmanagementsoftware.com/snmp-tutorial-part-2-rounding-out-the-basics
