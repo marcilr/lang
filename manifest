@@ -16,7 +16,6 @@
 # =====================================================================
 # =====================================================================
 #
-# Private htpc repositories
 # Public GitHub repositories
 #
 # =====================================================================
@@ -32,7 +31,7 @@
 ssh://git@github.com/marcilr/bash       bash
 ssh://git@github.com:marcilr/go.git     go
 ssh://git@github.com/marcilr/markdown   markdown
-ssh://htpc/git/dev/lang/perl            perl
+ssh://git@github.com/marcilr/perl       perl
 ssh://git@github.com/marcilr/php        php
 ssh://git@github.com/marcilr/python     python
 ssh://git@github.com/marcilr/ruby       ruby
