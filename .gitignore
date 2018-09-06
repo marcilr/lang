@@ -1,0 +1,18 @@
+# .gitignore
+# Created Thu Sep  6 12:31:45 AKDT 2018
+# by Raymond E. Marcil <rmarcil@gci.com>
+#
+# Links
+# =====
+# gitignore - Specifies intentionally untracked files to ignore
+# https://git-scm.com/docs/gitignore
+#
+bash/
+go/
+markdown/
+perl/
+php/
+python/
+ruby/
+snmp/
+xml/
