@@ -19,7 +19,6 @@
 #
 # =====================================================================
 #ssh://git@github.com/marcilr/bash       bash
-https://github.com/marcilr/bash.git     bash
 ssh://git@github.com/marcilr/go         go
 ssh://git@github.com/marcilr/java       java
 ssh://git@github.com/marcilr/markdown   markdown
