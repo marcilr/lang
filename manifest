@@ -19,12 +19,13 @@
 #
 # =====================================================================
 #ssh://git@github.com/marcilr/bash       bash
-ssh://git@github.com/marcilr/go         go
-ssh://git@github.com/marcilr/java       java
-ssh://git@github.com/marcilr/markdown   markdown
-ssh://git@github.com/marcilr/perl       perl
-ssh://git@github.com/marcilr/php        php
-ssh://git@github.com/marcilr/python     python
-ssh://git@github.com/marcilr/ruby       ruby
-ssh://git@github.com/marcilr/snmp       snmp
-ssh://git@github.com/marcilr/xml        xml
+ssh://git@github.com/marcilr/go           go
+ssh://git@github.com/marcilr/java         java
+ssh://dnratwtfsp:22/Sandboxes/_git/ldap   ldap
+ssh://git@github.com/marcilr/markdown     markdown
+ssh://git@github.com/marcilr/perl         perl
+ssh://git@github.com/marcilr/php          php
+ssh://git@github.com/marcilr/python       python
+ssh://git@github.com/marcilr/ruby         ruby
+ssh://git@github.com/marcilr/snmp         snmp
+ssh://git@github.com/marcilr/xml          xml
