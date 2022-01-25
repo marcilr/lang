@@ -52,6 +52,10 @@ html5/
   HTML 4, was standardised in 1997.
   http://en.wikipedia.org/wiki/HTML5
 
+index.html
+  HTML based index for languages git repository:
+  ssh://git@github.com/marcilr/lang.git
+
 glossary.txt
   Glossary for Languages
 
